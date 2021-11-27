@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636972632 source:d:\source\congiap\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+
